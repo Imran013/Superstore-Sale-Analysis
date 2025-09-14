@@ -54,7 +54,7 @@ This project analyzes the \*\*Superstore Sales dataset\*\* using Python for data
 
 &nbsp;  ```bash
 
-&nbsp;  git clone https://github.com/USERNAME/superstore-sales-analysis.git
+&nbsp;  git clone https://github.com/Imran013/superstore-sales-analysis.git
 
 &nbsp;  cd superstore-sales-analysis
 
